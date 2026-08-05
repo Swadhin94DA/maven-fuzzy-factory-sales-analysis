@@ -106,13 +106,15 @@ Video/
 
 ## 📷 Dashboard Preview
 
-### Excel Dashboard
+### 📊 Excel Dashboard
 
-(Add your Excel dashboard screenshot here)
+![Excel Dashboard](Images/excel_dashboard.png)
 
-### Tableau Dashboard
+---
 
-(Add your Tableau dashboard screenshot here)
+### 📈 Tableau Dashboard
+
+![Tableau Dashboard](Images/tableau_dashboard.png)
 
 ---
 
