@@ -1,5 +1,7 @@
 # 📊 Maven Fuzzy Factory Sales Analysis
 
+End-to-End Data Analytics Project using **SQL**, **Microsoft Excel**, and **Tableau**.
+
 ## 📌 Project Overview
 
 This project demonstrates an end-to-end sales analysis using SQL, Microsoft Excel, and Tableau.
